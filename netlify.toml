@@ -1,0 +1,6 @@
+папка_проекта/
+├── index.html
+├── netlify.toml
+└── netlify/
+    └── functions/
+        └── telegram-webhook.js
